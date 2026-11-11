@@ -1,0 +1,9 @@
+{
+    "app_name": "SAFWAN AI",
+    "language": "bn",
+    "theme": "Dark",
+    "security_mode": true,
+    "known_faces": {
+        "Safwan": "user_safwan"
+    }
+}
